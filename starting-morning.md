@@ -1,0 +1,5 @@
+- [ ] what tangible tasks do you want to get done for the day?
+- [ ] what is your metric of success?
+- [ ] what do you want to focus on learning?
+- [ ] how can you break up your tasks in units?
+- [ ] what can you do to make yourself more efficient?
